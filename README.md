@@ -217,4 +217,4 @@ Pac-Manic is offered as a full free version, including all features and updates.
 Download Pac-Manic now and dive into a world of classic gaming excitement!
 
 ---
-**Last updated:** 2026-09-17 21:59:19 UTC
+**Last updated:** 2026-09-18 00:06:58 UTC
